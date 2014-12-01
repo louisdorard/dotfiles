@@ -15,3 +15,5 @@ Inspired from [botanicus/dotfiles](https://github.com/botanicus/dotfiles)
 > chsh -s /bin/zsh
 
 > curl -#L https://github.com/louisdorard/dotfiles/tarball/master | tar -xzv --strip-components 1 --exclude={README.md,LICENSE,.gitignore}
+
+> cat ssh-config >> .ssh/config
