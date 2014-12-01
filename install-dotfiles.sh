@@ -1,2 +1,1 @@
-cat ssh-config >> .ssh/config
-rm ssh-config
+cat ssh-config >> ~/.ssh/config
