@@ -14,6 +14,6 @@ Inspired from [botanicus/dotfiles](https://github.com/botanicus/dotfiles)
 
 > chsh -s /bin/zsh
 
-> curl -#L https://github.com/louisdorard/dotfiles/tarball/master | tar -xzv --strip-components 1 --exclude={README.md,LICENSE,.gitignore}
+> git clone https://github.com/louisdorard/dotfiles.git
 
-> ./install-dotfiles.sh
+> bash dotfiles/install-dotfiles.sh
